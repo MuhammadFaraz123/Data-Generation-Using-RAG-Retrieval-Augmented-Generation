@@ -1,0 +1,8 @@
+openai
+python-dotenv
+scrapegraphai
+langchain
+langchain-chroma
+langchain-openai
+langchain-core
+
